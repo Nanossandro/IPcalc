@@ -1,0 +1,5 @@
+[tool.ruff]
+
+line-length = 88  # Longueur maximale des lignes
+
+select = ["F", "E"]  # Vérifier uniquement les erreurs de type F et E
